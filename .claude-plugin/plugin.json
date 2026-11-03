@@ -1,0 +1,6 @@
+{
+  "name": "usage-buddy",
+  "version": "0.1.0",
+  "description": "A compact band above the prompt: 7-day and 5-hour usage left, prompt-cache state and next-message costs, with a Claude that ages with weekly use and tires with 5-hour use. Data logic adapted from ribbon (MIT, robonuggets).",
+  "types": "./types/index.d.ts"
+}
